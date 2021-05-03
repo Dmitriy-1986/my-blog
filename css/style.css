@@ -13,10 +13,7 @@ transition: 0.5s all ease;
 h1,h2,h3,h4,h5,h6{
 	margin:0;			   
 }
-.headihg-h2 {
- color: #00aeff; 
- font-size: 2em;
-}
+
 p{
 	margin:0;
 }

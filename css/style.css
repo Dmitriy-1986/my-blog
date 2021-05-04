@@ -1,7 +1,7 @@
 html, body{
     font-size: 100%;
 	background-size:cover;
-	'Montserrat', sans-serif;	
+	font-family: 'Oswald', sans-serif;	
 }
 body a{
 transition: 0.5s all ease;
